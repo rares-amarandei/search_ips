@@ -1,0 +1,878 @@
+{
+  "Algeria": {
+    "Algiers": 378,
+    "Oran": 163,
+    "Setif": 119
+  },
+  "Argentina": {
+    "Buenos Aires": 2171,
+    "Cordoba": 219,
+    "La Matanza": 156,
+    "La Plata": 126,
+    "Mendoza": 153,
+    "Rosario": 201,
+    "San Miguel De Tucuman": 126
+  },
+  "Armenia": {
+    "Yerevan": 156
+  },
+  "Australia": {
+    "Adelaide": 189,
+    "Brisbane": 345,
+    "Greater Brisbane": 357,
+    "Greater Sydney": 749,
+    "Melbourne": 693,
+    "Perth": 291,
+    "Sydney": 693
+  },
+  "Austria": {
+    "Vienna": 265
+  },
+  "Azerbaijan": {
+    "Baku": 325
+  },
+  "Bangladesh": {
+    "Chittagong": 361,
+    "Dhaka": 1242
+  },
+  "Belarus": {
+    "Minsk": 282
+  },
+  "Belgium": {
+    "Brussels": 218
+  },
+  "Bolivia": {
+    "Santa Cruz": 155
+  },
+  "Brazil": {
+    "Belo Horizonte": 331,
+    "Belém": 193,
+    "Brasília": 346,
+    "Campinas": 148,
+    "Curitiba": 244,
+    "Duque De Caxias": 119,
+    "Fortaleza": 342,
+    "Goiânia": 181,
+    "Guarulhos": 170,
+    "Maceió": 130,
+    "Manaus": 250,
+    "Porto Alegre": 197,
+    "Recife": 214,
+    "Rio De Janeiro": 881,
+    "Salvador": 373,
+    "Sao Luis": 134,
+    "Sao Paulo": 1555,
+    "São Gonçalo": 139
+  },
+  "Bulgaria": {
+    "Sofia": 173
+  },
+  "Burkina Faso": {
+    "Bobo Dioulasso": 137,
+    "Ouagadougou": 337
+  },
+  "Cameroon": {
+    "Douala": 266,
+    "Yaounde": 253
+  },
+  "Canada": {
+    "Calgary": 217,
+    "Edmonton": 207,
+    "Mississauga": 116,
+    "Montreal": 609,
+    "Ottawa": 147,
+    "Quebec": 117,
+    "Toronto": 917,
+    "Vancouver": 387,
+    "Winnipeg": 119
+  },
+  "Chile": {
+    "Santiago": 858
+  },
+  "China": {
+    "Ankang": 118,
+    "Anqiu": 153,
+    "Anshan": 217,
+    "Baoding": 126,
+    "Baoshan": 118,
+    "Baotou": 233,
+    "Bazhong": 165,
+    "Beijing": 2735,
+    "Beiliu": 146,
+    "Benxi": 137,
+    "Bijie": 157,
+    "Bozhou": 189,
+    "Changchun": 450,
+    "Changde": 188,
+    "Changsha": 296,
+    "Changshu": 173,
+    "Changzhou": 151,
+    "Chaoyang": 345,
+    "Chengdu": 604,
+    "Chenghai": 120,
+    "Chifeng": 161,
+    "Chongqing": 1352,
+    "Cixi": 169,
+    "Dalian": 453,
+    "Danyang": 122,
+    "Danzhou": 117,
+    "Daqing": 192,
+    "Datong": 213,
+    "Daye": 122,
+    "Dehui": 123,
+    "Dengzhou": 180,
+    "Dingzhou": 155,
+    "Dongguan": 899,
+    "Dongtai": 162,
+    "Ezhou": 143,
+    "Feicheng": 132,
+    "Fengcheng": 170,
+    "Fuqing": 164,
+    "Fushun": 200,
+    "Fuyang": 240,
+    "Fuzhou": 140,
+    "Gaizhou": 123,
+    "Gaomi": 117,
+    "Gaozhou": 170,
+    "Gongzhuling": 145,
+    "Guangan": 152,
+    "Guangshui": 124,
+    "Guangyuan": 126,
+    "Guangzhou": 1189,
+    "Guigang": 197,
+    "Guiping": 190,
+    "Guiyang": 416,
+    "Haicheng": 165,
+    "Haikou": 116,
+    "Haimen": 132,
+    "Hanchuan": 147,
+    "Handan": 185,
+    "Hangzhou": 342,
+    "Harbin": 486,
+    "Hechuan": 198,
+    "Hefei": 231,
+    "Hengyang": 123,
+    "Heze": 179,
+    "Hezhou": 119,
+    "Hohhot": 196,
+    "Honghu": 122,
+    "Huaian": 167,
+    "Huainan": 189,
+    "Huazhou": 141,
+    "Huiyang": 120,
+    "Huludao": 126,
+    "Huzhou": 160,
+    "Jiamusi": 120,
+    "Jiangdu": 147,
+    "Jiangjin": 184,
+    "Jiangyan": 120,
+    "Jiangyin": 183,
+    "Jiangyou": 119,
+    "Jianyang": 197,
+    "Jiaonan": 115,
+    "Jiaxing": 123,
+    "Jilin": 272,
+    "Jimo": 155,
+    "Jinan": 418,
+    "Jingzhou": 164,
+    "Jining": 147,
+    "Jinjiang": 206,
+    "Jinzhou": 120,
+    "Jixi": 127,
+    "Kunming": 423,
+    "Laiwu": 172,
+    "Laiyang": 125,
+    "Laizhou": 124,
+    "Lanzhou": 291,
+    "Leiyang": 165,
+    "Leizhou": 177,
+    "Leqing": 162,
+    "Leshan": 156,
+    "Lianjiang": 168,
+    "Lianyuan": 139,
+    "Liaocheng": 133,
+    "Liling": 130,
+    "Linhai": 132,
+    "Linyi": 270,
+    "Linzhou": 137,
+    "Liupanshui": 139,
+    "Liuyang": 182,
+    "Liuzhou": 170,
+    "Lu'An": 217,
+    "Lufeng": 162,
+    "Luoding": 121,
+    "Luoyang": 208,
+    "Luzhou": 175,
+    "Macheng": 157,
+    "Mianyang": 162,
+    "Mudanjiang": 141,
+    "Nanan": 193,
+    "Nanchang": 257,
+    "Nanchong": 247,
+    "Nanhai": 298,
+    "Nanjing": 505,
+    "Nanning": 246,
+    "Nanyang": 221,
+    "Neijiang": 194,
+    "Ningbo": 219,
+    "Pingdingshan": 126,
+    "Pingdu": 184,
+    "Pizhou": 215,
+    "Puning": 259,
+    "Qianjiang": 138,
+    "Qidong": 147,
+    "Qingdao": 379,
+    "Qingzhou": 125,
+    "Qinzhou": 144,
+    "Qiqihar": 215,
+    "Quanzhou": 166,
+    "Rizhao": 160,
+    "Rugao": 190,
+    "Ruian": 168,
+    "Ruzhou": 129,
+    "Shanghai": 3210,
+    "Shangqiu": 199,
+    "Shantou": 177,
+    "Shenyang": 740,
+    "Shenzhen": 978,
+    "Shijiazhuang": 275,
+    "Shouguang": 151,
+    "Shunde": 236,
+    "Songzi": 120,
+    "Suining": 189,
+    "Suizhou": 223,
+    "Suzhou": 188,
+    "Tai'An": 215,
+    "Taishan": 132,
+    "Taixing": 172,
+    "Taiyuan": 357,
+    "Taizhou": 208,
+    "Tangshan": 239,
+    "Tengzhou": 216,
+    "Tianjin": 1046,
+    "Tianmen": 225,
+    "Tianshui": 160,
+    "Tongzhou": 191,
+    "Urumqi": 245,
+    "Wafangdian": 133,
+    "Weifang": 193,
+    "Weinan": 124,
+    "Wenling": 162,
+    "Wenzhou": 267,
+    "Wuchang": 124,
+    "Wuhan": 1159,
+    "Wujiang": 120,
+    "Wujin": 198,
+    "Wuwei": 132,
+    "Wuxi": 157,
+    "Xi'An": 625,
+    "Xiamen": 286,
+    "Xiangcheng": 147,
+    "Xiangfan": 122,
+    "Xiantao": 206,
+    "Xianyang": 133,
+    "Xiaogan": 123,
+    "Xiaoshan": 172,
+    "Xinghua": 201,
+    "Xingning": 122,
+    "Xinhui": 130,
+    "Xining": 119,
+    "Xintai": 187,
+    "Xinyang": 175,
+    "Xinyi": 127,
+    "Xishan": 165,
+    "Xuanwei": 180,
+    "Xuzhou": 234,
+    "Yangchun": 117,
+    "Yantai": 240,
+    "Yichun": 128,
+    "Yiwu": 127,
+    "Yixing": 162,
+    "Yiyang": 171,
+    "Yongcheng": 176,
+    "Yongchuan": 137,
+    "Yongzhou": 136,
+    "Yueyang": 127,
+    "Yulin": 128,
+    "Yushu": 161,
+    "Yuyao": 119,
+    "Yuzhou": 157,
+    "Zaoyang": 147,
+    "Zaozhuang": 278,
+    "Zengcheng": 125,
+    "Zhangjiagang": 134,
+    "Zhangjiakou": 126,
+    "Zhangqiu": 136,
+    "Zhanjiang": 188,
+    "Zhaodong": 116,
+    "Zhengzhou": 361,
+    "Zhongshan": 330,
+    "Zhongxiang": 143,
+    "Zhuanghe": 116,
+    "Zhucheng": 147,
+    "Zhuhai": 116,
+    "Zhuji": 149,
+    "Zhuzhou": 123,
+    "Zibo": 393,
+    "Zigong": 147,
+    "Ziyang": 142,
+    "Zoucheng": 154
+  },
+  "Colombia": {
+    "Barranquilla": 156,
+    "Cali": 289,
+    "Cartagena": 125,
+    "Medellin": 331
+  },
+  "Cuba": {
+    "La Habana": 307
+  },
+  "Czechia": {
+    "Prague": 186
+  },
+  "Côte D'Ivoire": {
+    "Abidjan": 613
+  },
+  "Democratic People'S Republic Of Korea": {
+    "Pyongyang": 382
+  },
+  "Dominican Republic": {
+    "Santo Domingo": 124
+  },
+  "Ecuador": {
+    "Guayaquil": 320,
+    "Quito": 296
+  },
+  "Egypt": {
+    "Alexandria": 720,
+    "Cairo": 1330,
+    "Giza": 359,
+    "Shubra El-Kheima": 143
+  },
+  "Ethiopia": {
+    "Addis Ababa": 382
+  },
+  "France": {
+    "Bordeaux": 126,
+    "Lille": 145,
+    "Lyon": 229,
+    "Marseille": 221,
+    "Nice": 132,
+    "Paris": 1493,
+    "Toulouse": 132
+  },
+  "Georgia": {
+    "Tbilisi": 165
+  },
+  "Germany": {
+    "Berlin": 508,
+    "Cologne": 151,
+    "Hamburg": 257,
+    "Munich": 205
+  },
+  "Ghana": {
+    "Accra": 231,
+    "Kumasi": 241
+  },
+  "Guatemala": {
+    "Guatemala City": 143
+  },
+  "Guinea": {
+    "Conakry": 262
+  },
+  "Honduras": {
+    "Tegucigalpa": 139
+  },
+  "Hungary": {
+    "Budapest": 366
+  },
+  "India": {
+    "Agra": 221,
+    "Ahmedabad": 786,
+    "Aligarh": 122,
+    "Allahabad": 163,
+    "Amritsar": 162,
+    "Asansol": 149,
+    "Aurangabad": 164,
+    "Bangalore": 795,
+    "Bareilly": 126,
+    "Bengaluru": 1185,
+    "Bhopal": 251,
+    "Bhubaneswar Town": 123,
+    "Calicut": 123,
+    "Chandigarh": 135,
+    "Chennai": 915,
+    "Coimbatore": 204,
+    "Delhi": 1539,
+    "Dhanbad": 162,
+    "Durg": 129,
+    "Faridabad": 197,
+    "Ghaziabad": 230,
+    "Gurgaon": 124,
+    "Guwahati": 134,
+    "Gwalior": 147,
+    "Haora": 150,
+    "Hubli-Dharwad": 132,
+    "Hyderabad": 801,
+    "Indore": 278,
+    "Jabalpur": 153,
+    "Jaipur": 425,
+    "Jalandhar": 121,
+    "Jamshedpur": 154,
+    "Jodhpur": 147,
+    "Kalyan": 166,
+    "Kalyan Dombivali": 174,
+    "Kanpur": 386,
+    "Kochi": 189,
+    "Kolkata": 1842,
+    "Kota": 140,
+    "Lucknow": 393,
+    "Ludhiana": 226,
+    "Madurai": 168,
+    "Meerut": 182,
+    "Moradabad": 124,
+    "Mumbai": 1735,
+    "Mysore": 128,
+    "Nagpur": 336,
+    "Nashik": 207,
+    "Navi Mumbai": 156,
+    "Patna": 237,
+    "Pimpri Chinchwad": 241,
+    "Pune": 524,
+    "Raipur": 143,
+    "Rajkot": 185,
+    "Ranchi": 150,
+    "Salem": 116,
+    "Solapur": 133,
+    "Srinagar": 168,
+    "Surat": 628,
+    "Thane": 257,
+    "Thiruvananthapuram": 124,
+    "Tiruchirappalli": 121,
+    "Vadodara": 244,
+    "Varanasi": 168,
+    "Vasai": 170,
+    "Vijayawada": 159,
+    "Visakhapatnam": 188
+  },
+  "Indonesia": {
+    "Bandar Lampung": 123,
+    "Bandung": 341,
+    "Batam": 132,
+    "Bogor": 133,
+    "Jakarta": 1473,
+    "Makasar": 187,
+    "Medan": 340,
+    "Padang": 116,
+    "Palembang": 203,
+    "Pekanbaru": 125,
+    "Semarang": 217,
+    "Surabaya": 401,
+    "Tangerang": 251
+  },
+  "Iran": {
+    "Ahvaz": 165,
+    "Isfahan": 274,
+    "Karaj": 225,
+    "Kermanshah": 132,
+    "Mashhad": 419,
+    "Qom": 168,
+    "Shiraz": 218,
+    "Tabriz": 217,
+    "Tehran": 1212
+  },
+  "Iraq": {
+    "Baghdad": 536
+  },
+  "Ireland": {
+    "Dublin": 155
+  },
+  "Israel": {
+    "Jerusalem": 132
+  },
+  "Italy": {
+    "Milan": 194,
+    "Naples": 140,
+    "Roma": 401,
+    "Torino": 127
+  },
+  "Japan": {
+    "Chiba": 136,
+    "Fukuoka": 225,
+    "Hiroshima": 167,
+    "Kawasaki": 215,
+    "Kitakyushu": 141,
+    "Kobe": 215,
+    "Kyoto": 206,
+    "Nagoya": 325,
+    "Osaka": 384,
+    "Saitama": 185,
+    "Sakai": 117,
+    "Sapporo": 275,
+    "Sendai": 153,
+    "Tokyo": 1754,
+    "Yokohama": 527
+  },
+  "Jordan": {
+    "Amman": 559,
+    "Irbid": 247,
+    "Zarqa": 190
+  },
+  "Kazakhstan": {
+    "Almaty": 279,
+    "Nur-Sultan": 169,
+    "Shymkent": 153
+  },
+  "Kenya": {
+    "Mombasa": 168,
+    "Nairobi": 613
+  },
+  "Kyrgyzstan": {
+    "Bishkek": 151
+  },
+  "Lebanon": {
+    "Beirut": 131
+  },
+  "Liberia": {
+    "Monrovia": 135
+  },
+  "Madagascar": {
+    "Antananarivo": 178
+  },
+  "Malawi": {
+    "Lilongwe": 152
+  },
+  "Malaysia": {
+    "Kuala Lumpur": 259
+  },
+  "Mali": {
+    "Bamako": 252
+  },
+  "Mauritania": {
+    "Nouakchott": 134
+  },
+  "Mexico": {
+    "Acapulco": 130,
+    "Aguascalientes": 166,
+    "Cancún": 139,
+    "Chihuahua": 142,
+    "Ciudad Del Carmen": 2505,
+    "Ciudad Juarez": 204,
+    "Ciudad Madero": 120,
+    "Coatzacoalcos": 182,
+    "Cuernavaca": 148,
+    "Culiacán Rosales": 145,
+    "Cárdenas": 118,
+    "Ecatepec": 231,
+    "Guadalajara": 758,
+    "Gómez Palacio": 170,
+    "Hermosillo": 135,
+    "Irapuato": 525,
+    "Jiutepec": 122,
+    "La Laguna": 205,
+    "León": 278,
+    "Manzanillo": 173,
+    "Mexicali": 152,
+    "Monterrey": 782,
+    "Morelia": 143,
+    "Mérida": 192,
+    "Nezahualcoyotl": 154,
+    "Puebla": 461,
+    "Queretaro": 237,
+    "Reynosa": 120,
+    "Saltillo": 151,
+    "San Luis Potosi": 184,
+    "San Martin Texmelucan De Labastida": 372,
+    "Soledad De Graciano Sanchez": 145,
+    "Tampico": 137,
+    "Tijuana": 314,
+    "Tlalnepantla": 2806,
+    "Tlaquepaque": 619,
+    "Toluca": 339,
+    "Tonala": 619,
+    "Torreón": 170,
+    "Tuxtla Gutiérrez": 126,
+    "Veracruz": 134,
+    "Villahermosa": 124,
+    "Zapopan": 619
+  },
+  "Mongolia": {
+    "Ulaanbaatar": 226
+  },
+  "Mozambique": {
+    "Maputo": 194,
+    "Matola": 144,
+    "Nampula": 765,
+    "Xai-Xai": 194
+  },
+  "Myanmar": {
+    "Mandalay": 171,
+    "Nay Pyi Taw": 162,
+    "Yangon": 727
+  },
+  "Nepal": {
+    "Kathmandu": 136
+  },
+  "Netherlands": {
+    "Amsterdam": 149,
+    "Rotterdam": 141
+  },
+  "New Zealand": {
+    "Auckland": 240
+  },
+  "Nicaragua": {
+    "Managua": 127
+  },
+  "Niger": {
+    "Niamey": 143
+  },
+  "Nigeria": {
+    "Ibadan": 256,
+    "Kaduna": 139,
+    "Kano": 302,
+    "Lagos": 725
+  },
+  "Pakistan": {
+    "Faisalabad": 448,
+    "Gujranwala": 302,
+    "Islamabad": 142,
+    "Karachi": 2080,
+    "Kashmore": 293,
+    "Lahore": 1552,
+    "Multan": 261,
+    "Peshawar": 275,
+    "Quetta": 140,
+    "Rawalpindi": 293
+  },
+  "Panama": {
+    "Panama City": 161
+  },
+  "Paraguay": {
+    "Asunción": 226
+  },
+  "Peru": {
+    "Arequipa": 151,
+    "Callao": 122,
+    "Lima": 1334,
+    "Trujillo": 135
+  },
+  "Philippines": {
+    "Antipolo": 124,
+    "Caloocan": 232,
+    "Cebu": 134,
+    "Davao": 248,
+    "Kalookan": 208,
+    "Manila": 258,
+    "Quezon City": 413,
+    "Taguig": 124,
+    "Zamboanga": 136
+  },
+  "Poland": {
+    "Warsaw": 250
+  },
+  "Qatar": {
+    "Doha": 165
+  },
+  "Republic Of Korea": {
+    "Busan": 511,
+    "Daegu": 346,
+    "Daejeon": 216,
+    "Gwangju": 212,
+    "Incheon": 412,
+    "Seongnam": 128,
+    "Seoul": 1400,
+    "Suwon": 132,
+    "Ulsan": 163
+  },
+  "Romania": {
+    "Bucharest": 271
+  },
+  "Russian Federation": {
+    "Chelyabinsk": 160,
+    "Kazan": 163,
+    "Krasnodar": 120,
+    "Krasnoyarsk": 141,
+    "Moscow": 1662,
+    "Nizhniy Novgorod": 181,
+    "Novosibirsk": 211,
+    "Omsk": 162,
+    "Perm": 140,
+    "Rostov-On-Don": 153,
+    "Saint Petersburg": 696,
+    "Samara": 163,
+    "Saratov": 120,
+    "Ufa": 151,
+    "Volgograd": 144,
+    "Voronezh": 139,
+    "Yekaterinburg": 198
+  },
+  "Rwanda": {
+    "Kigali": 120
+  },
+  "Saudi Arabia": {
+    "Dammam": 126,
+    "Jeddah": 478,
+    "Madinah": 153,
+    "Mecca": 214,
+    "Riyadh": 724
+  },
+  "Senegal": {
+    "Dakar": 276,
+    "Pikine": 153
+  },
+  "Serbia": {
+    "Belgrade": 236
+  },
+  "Sierra Leone": {
+    "Freetown": 147
+  },
+  "Singapore": {
+    "Singapore": 795
+  },
+  "South Africa": {
+    "Cape Town": 138,
+    "Johannesburg": 134,
+    "Soweto": 126
+  },
+  "Spain": {
+    "Barcelona": 308,
+    "Madrid": 558,
+    "Sevilla": 137,
+    "Valencia": 159
+  },
+  "Sweden": {
+    "Gothenburg": 123,
+    "Stockholm": 266
+  },
+  "Switzerland": {
+    "Zurich": 197
+  },
+  "Thailand": {
+    "Bangkok": 1158,
+    "Buri Ram": 208,
+    "Chaiyaphum": 153,
+    "Chiang Mai": 209,
+    "Chiang Rai": 158,
+    "Chon Buri": 162,
+    "Kalasin": 129,
+    "Khon Kaen": 242,
+    "Maha Sarakham": 132,
+    "Nakhon Ratchasima": 357,
+    "Nakhon Sawan": 152,
+    "Nakhon Si Thammarat": 212,
+    "Nong Khai": 123,
+    "Phetchabun": 135,
+    "Roi Et": 175,
+    "Sakon Nakhon": 145,
+    "Samut Prakan": 151,
+    "Si Sa Ket": 196,
+    "Songkhla": 175,
+    "Suphan Buri": 119,
+    "Surat Thani": 121,
+    "Surin": 185,
+    "Ubon Ratchathani": 236,
+    "Udon Thani": 205
+  },
+  "Togo": {
+    "Lome": 117
+  },
+  "Tunisia": {
+    "Tunis": 147
+  },
+  "Uganda": {
+    "Kampala": 210
+  },
+  "Ukraine": {
+    "Dnipro": 147,
+    "Donetsk": 141,
+    "Kharkiv": 202,
+    "Kiev": 404,
+    "Odessa": 141
+  },
+  "United Kingdom Of Great Britain And Northern Ireland": {
+    "Birmingham": 151,
+    "Glasgow": 169,
+    "London": 1155,
+    "Manchester": 313,
+    "Tyneside": 123,
+    "West Midlands": 319,
+    "West Yorkshire": 209
+  },
+  "United Republic Of Tanzania": {
+    "Dar Es Salaam": 609,
+    "Dodoma": 291,
+    "Mwanza": 387,
+    "Zanzibar": 182
+  },
+  "United States Of America": {
+    "Atlanta": 488,
+    "Austin": 134,
+    "Baltimore": 290,
+    "Boston": 562,
+    "Bridgeport": 124,
+    "Buffalo": 136,
+    "Charlotte": 123,
+    "Chicago": 1159,
+    "Cincinnati": 210,
+    "Cleveland": 249,
+    "Columbus": 158,
+    "Dallas": 578,
+    "Denver": 277,
+    "Detroit": 544,
+    "Fort Worth": 130,
+    "Hartford": 119,
+    "Houston": 533,
+    "Indianapolis": 170,
+    "Jacksonville": 133,
+    "Kansas City": 190,
+    "Las Vegas": 183,
+    "Los Angeles": 1644,
+    "Louisville": 120,
+    "Memphis": 136,
+    "Miami": 686,
+    "Milwaukee": 183,
+    "Minneapolis": 333,
+    "New Orleans": 141,
+    "New York": 2482,
+    "Orlando": 161,
+    "Philadelphia": 718,
+    "Phoenix": 405,
+    "Pittsburgh": 245,
+    "Portland": 221,
+    "Providence": 164,
+    "Riverside": 210,
+    "Sacramento": 194,
+    "Salt Lake City": 124,
+    "San Antonio": 208,
+    "San Diego": 373,
+    "San Francisco": 418,
+    "San Jose": 215,
+    "Seattle": 378,
+    "St. Louis": 290,
+    "Tampa": 288,
+    "Virginia Beach": 194,
+    "Washington": 549
+  },
+  "Uruguay": {
+    "Montevideo": 193
+  },
+  "Uzbekistan": {
+    "Tashkent": 376
+  },
+  "Venezuela": {
+    "Barquisimeto": 140,
+    "Caracas": 293,
+    "Ciudad Guayana": 122,
+    "Maracaibo": 238,
+    "Valencia": 176
+  },
+  "Yemen": {
+    "Sanaa": 244
+  },
+  "Zambia": {
+    "Lusaka": 244
+  },
+  "Zimbabwe": {
+    "Harare": 207
+  }
+}

@@ -1,0 +1,892 @@
+{
+    "Acapulco": {
+        "Name": "Acapulco",
+        "IPs": [],
+        "Quota": 126
+    },
+    "Ad-Dammam": {
+        "Name": "Ad-Dammam",
+        "IPs": [],
+        "Quota": 122
+    },
+    "Ahmadabad": {
+        "Name": "Ahmadabad",
+        "IPs": [],
+        "Quota": 758
+    },
+    "Ahwaz": {
+        "Name": "Ahwaz",
+        "IPs": [],
+        "Quota": 159
+    },
+    "Al-Madinah": {
+        "Name": "Al-Madinah",
+        "IPs": [],
+        "Quota": 148
+    },
+    "Astana": {
+        "Name": "Astana",
+        "IPs": [],
+        "Quota": 163
+    },
+    "Asunción": {
+        "Name": "Asunción",
+        "IPs": [],
+        "Quota": 218
+    },
+    "Bandar Lampung": {
+        "Name": "Bandar Lampung",
+        "IPs": [],
+        "Quota": 119
+    },
+    "Bangalore": {
+        "Name": "Bangalore",
+        "IPs": [],
+        "Quota": 767
+    },
+    "Beiliu": {
+        "Name": "Beiliu",
+        "IPs": [],
+        "Quota": 141
+    },
+    "Belém": {
+        "Name": "Belém",
+        "IPs": [],
+        "Quota": 186
+    },
+    "Beograd": {
+        "Name": "Beograd",
+        "IPs": [],
+        "Quota": 228
+    },
+    "Bhubaneswar Town": {
+        "Name": "Bhubaneswar Town",
+        "IPs": [],
+        "Quota": 119
+    },
+    "Bobo Dioulasso": {
+        "Name": "Bobo Dioulasso",
+        "IPs": [],
+        "Quota": 132
+    },
+    "Brasília": {
+        "Name": "Brasília",
+        "IPs": [],
+        "Quota": 334
+    },
+    "Bruhat Bengaluru Mahanagara Palike": {
+        "Name": "Bruhat Bengaluru Mahanagara Palike",
+        "IPs": [],
+        "Quota": 1143
+    },
+    "Bruxelles": {
+        "Name": "Bruxelles",
+        "IPs": [],
+        "Quota": 210
+    },
+    "Bucuresti": {
+        "Name": "Bucuresti",
+        "IPs": [],
+        "Quota": 262
+    },
+    "Buri Ram": {
+        "Name": "Buri Ram",
+        "IPs": [],
+        "Quota": 201
+    },
+    "Cancún": {
+        "Name": "Cancún",
+        "IPs": [],
+        "Quota": 134
+    },
+    "Cebu": {
+        "Name": "Cebu",
+        "IPs": [],
+        "Quota": 130
+    },
+    "Chenghai": {
+        "Name": "Chenghai",
+        "IPs": [],
+        "Quota": 116
+    },
+    "Ciudad De Panamá": {
+        "Name": "Ciudad De Panamá",
+        "IPs": [],
+        "Quota": 155
+    },
+    "Ciudad Del Carmen": {
+        "Name": "Ciudad Del Carmen",
+        "IPs": [],
+        "Quota": 2417
+    },
+    "Ciudad Juárez": {
+        "Name": "Ciudad Juárez",
+        "IPs": [],
+        "Quota": 209
+    },
+    "Ciudad Madero": {
+        "Name": "Ciudad Madero",
+        "IPs": [],
+        "Quota": 116
+    },
+    "Cixi": {
+        "Name": "Cixi",
+        "IPs": [],
+        "Quota": 163
+    },
+    "Cuidad De Guatemala": {
+        "Name": "Cuidad De Guatemala",
+        "IPs": [],
+        "Quota": 138
+    },
+    "Culiacán Rosales": {
+        "Name": "Culiacán Rosales",
+        "IPs": [],
+        "Quota": 139
+    },
+    "Cárdenas": {
+        "Name": "Cárdenas",
+        "IPs": [],
+        "Quota": 114
+    },
+    "Córdoba": {
+        "Name": "Córdoba",
+        "IPs": [],
+        "Quota": 212
+    },
+    "Dar Es Salaam": {
+        "Name": "Dar Es Salaam",
+        "IPs": [],
+        "Quota": 587
+    },
+    "Davao": {
+        "Name": "Davao",
+        "IPs": [],
+        "Quota": 239
+    },
+    "Dehui": {
+        "Name": "Dehui",
+        "IPs": [],
+        "Quota": 118
+    },
+    "Delhi Municipal Corporation": {
+        "Name": "Delhi Municipal Corporation",
+        "IPs": [],
+        "Quota": 1485
+    },
+    "Dengzhou": {
+        "Name": "Dengzhou",
+        "IPs": [],
+        "Quota": 174
+    },
+    "Dnepropetrovsk": {
+        "Name": "Dnepropetrovsk",
+        "IPs": [],
+        "Quota": 142
+    },
+    "Donets'K": {
+        "Name": "Donets'K",
+        "IPs": [],
+        "Quota": 136
+    },
+    "Duque De Caxias": {
+        "Name": "Duque De Caxias",
+        "IPs": [],
+        "Quota": 115
+    },
+    "Durg-Bhilai Nagar": {
+        "Name": "Durg-Bhilai Nagar",
+        "IPs": [],
+        "Quota": 125
+    },
+    "Ecatepec": {
+        "Name": "Ecatepec",
+        "IPs": [],
+        "Quota": 223
+    },
+    "Ekaterinburg": {
+        "Name": "Ekaterinburg",
+        "IPs": [],
+        "Quota": 191
+    },
+    "Esfahan": {
+        "Name": "Esfahan",
+        "IPs": [],
+        "Quota": 264
+    },
+    "Feicheng": {
+        "Name": "Feicheng",
+        "IPs": [],
+        "Quota": 128
+    },
+    "Fengcheng": {
+        "Name": "Fengcheng",
+        "IPs": [],
+        "Quota": 164
+    },
+    "Gaizhou": {
+        "Name": "Gaizhou",
+        "IPs": [],
+        "Quota": 119
+    },
+    "Gaozhou": {
+        "Name": "Gaozhou",
+        "IPs": [],
+        "Quota": 164
+    },
+    "Ghaziabad": {
+        "Name": "Ghaziabad",
+        "IPs": [],
+        "Quota": 222
+    },
+    "Goiânia": {
+        "Name": "Goiânia",
+        "IPs": [],
+        "Quota": 175
+    },
+    "Gongzhuling": {
+        "Name": "Gongzhuling",
+        "IPs": [],
+        "Quota": 140
+    },
+    "Greater Adelaide": {
+        "Name": "Greater Adelaide",
+        "IPs": [],
+        "Quota": 185
+    },
+    "Greater Brisbane": {
+        "Name": "Greater Brisbane",
+        "IPs": [],
+        "Quota": 345
+    },
+    "Greater Hyderabad Municipal Corporation": {
+        "Name": "Greater Hyderabad Municipal Corporation",
+        "IPs": [],
+        "Quota": 941
+    },
+    "Greater Melbourne": {
+        "Name": "Greater Melbourne",
+        "IPs": [],
+        "Quota": 694
+    },
+    "Greater Mumbai": {
+        "Name": "Greater Mumbai",
+        "IPs": [],
+        "Quota": 1674
+    },
+    "Greater Perth": {
+        "Name": "Greater Perth",
+        "IPs": [],
+        "Quota": 286
+    },
+    "Greater Sydney": {
+        "Name": "Greater Sydney",
+        "IPs": [],
+        "Quota": 722
+    },
+    "Greater Visakhapatnam Municipal Corporation": {
+        "Name": "Greater Visakhapatnam Municipal Corporation",
+        "IPs": [],
+        "Quota": 233
+    },
+    "Guangan": {
+        "Name": "Guangan",
+        "IPs": [],
+        "Quota": 147
+    },
+    "Guiping": {
+        "Name": "Guiping",
+        "IPs": [],
+        "Quota": 183
+    },
+    "Gómez Palacio": {
+        "Name": "Gómez Palacio",
+        "IPs": [],
+        "Quota": 164
+    },
+    "Göteborg": {
+        "Name": "Göteborg",
+        "IPs": [],
+        "Quota": 119
+    },
+    "Haerbin": {
+        "Name": "Haerbin",
+        "IPs": [],
+        "Quota": 468
+    },
+    "Haicheng": {
+        "Name": "Haicheng",
+        "IPs": [],
+        "Quota": 159
+    },
+    "Haora": {
+        "Name": "Haora",
+        "IPs": [],
+        "Quota": 145
+    },
+    "Honghu": {
+        "Name": "Honghu",
+        "IPs": [],
+        "Quota": 118
+    },
+    "Huaian": {
+        "Name": "Huaian",
+        "IPs": [],
+        "Quota": 162
+    },
+    "Hubli-Dharwad": {
+        "Name": "Hubli-Dharwad",
+        "IPs": [],
+        "Quota": 127
+    },
+    "Huhehaote": {
+        "Name": "Huhehaote",
+        "IPs": [],
+        "Quota": 189
+    },
+    "Huiyang": {
+        "Name": "Huiyang",
+        "IPs": [],
+        "Quota": 116
+    },
+    "Incheon": {
+        "Name": "Incheon",
+        "IPs": [],
+        "Quota": 397
+    },
+    "Jiangjin": {
+        "Name": "Jiangjin",
+        "IPs": [],
+        "Quota": 178
+    },
+    "Jiangyin": {
+        "Name": "Jiangyin",
+        "IPs": [],
+        "Quota": 177
+    },
+    "Jiangyou": {
+        "Name": "Jiangyou",
+        "IPs": [],
+        "Quota": 114
+    },
+    "Jianyang": {
+        "Name": "Jianyang",
+        "IPs": [],
+        "Quota": 190
+    },
+    "Jiddah": {
+        "Name": "Jiddah",
+        "IPs": [],
+        "Quota": 462
+    },
+    "Jimo": {
+        "Name": "Jimo",
+        "IPs": [],
+        "Quota": 150
+    },
+    "Jiutepec": {
+        "Name": "Jiutepec",
+        "IPs": [],
+        "Quota": 118
+    },
+    "Juárez": {
+        "Name": "Juárez",
+        "IPs": [],
+        "Quota": 197
+    },
+    "Kalookan": {
+        "Name": "Kalookan",
+        "IPs": [],
+        "Quota": 200
+    },
+    "Kalyan": {
+        "Name": "Kalyan",
+        "IPs": [],
+        "Quota": 161
+    },
+    "Kalyan Dombivali": {
+        "Name": "Kalyan Dombivali",
+        "IPs": [],
+        "Quota": 168
+    },
+    "Kashmore": {
+        "Name": "Kashmore",
+        "IPs": [],
+        "Quota": 282
+    },
+    "Kozhikode": {
+        "Name": "Kozhikode",
+        "IPs": [],
+        "Quota": 118
+    },
+    "Kyiv": {
+        "Name": "Kyiv",
+        "IPs": [],
+        "Quota": 389
+    },
+    "Köln": {
+        "Name": "Köln",
+        "IPs": [],
+        "Quota": 146
+    },
+    "La Habana": {
+        "Name": "La Habana",
+        "IPs": [],
+        "Quota": 296
+    },
+    "La Matanza": {
+        "Name": "La Matanza",
+        "IPs": [],
+        "Quota": 151
+    },
+    "Laiyang": {
+        "Name": "Laiyang",
+        "IPs": [],
+        "Quota": 121
+    },
+    "Laizhou": {
+        "Name": "Laizhou",
+        "IPs": [],
+        "Quota": 120
+    },
+    "Leiyang": {
+        "Name": "Leiyang",
+        "IPs": [],
+        "Quota": 159
+    },
+    "Leqing": {
+        "Name": "Leqing",
+        "IPs": [],
+        "Quota": 156
+    },
+    "León": {
+        "Name": "León",
+        "IPs": [],
+        "Quota": 269
+    },
+    "Lianyuan": {
+        "Name": "Lianyuan",
+        "IPs": [],
+        "Quota": 134
+    },
+    "Liling": {
+        "Name": "Liling",
+        "IPs": [],
+        "Quota": 126
+    },
+    "Linzhou": {
+        "Name": "Linzhou",
+        "IPs": [],
+        "Quota": 132
+    },
+    "Lu'An": {
+        "Name": "Lu'An",
+        "IPs": [],
+        "Quota": 210
+    },
+    "Luoding": {
+        "Name": "Luoding",
+        "IPs": [],
+        "Quota": 117
+    },
+    "Maceió": {
+        "Name": "Maceió",
+        "IPs": [],
+        "Quota": 125
+    },
+    "Macheng": {
+        "Name": "Macheng",
+        "IPs": [],
+        "Quota": 152
+    },
+    "Makasar": {
+        "Name": "Makasar",
+        "IPs": [],
+        "Quota": 180
+    },
+    "Makkah": {
+        "Name": "Makkah",
+        "IPs": [],
+        "Quota": 207
+    },
+    "Matola": {
+        "Name": "Matola",
+        "IPs": [],
+        "Quota": 139
+    },
+    "Medellín": {
+        "Name": "Medellín",
+        "IPs": [],
+        "Quota": 319
+    },
+    "Milano": {
+        "Name": "Milano",
+        "IPs": [],
+        "Quota": 187
+    },
+    "Montréal": {
+        "Name": "Montréal",
+        "IPs": [],
+        "Quota": 587
+    },
+    "Moskva": {
+        "Name": "Moskva",
+        "IPs": [],
+        "Quota": 1604
+    },
+    "Mérida": {
+        "Name": "Mérida",
+        "IPs": [],
+        "Quota": 185
+    },
+    "München": {
+        "Name": "München",
+        "IPs": [],
+        "Quota": 198
+    },
+    "Napoli": {
+        "Name": "Napoli",
+        "IPs": [],
+        "Quota": 135
+    },
+    "Navi Mumbai": {
+        "Name": "Navi Mumbai",
+        "IPs": [],
+        "Quota": 151
+    },
+    "Netzahualcóyotl": {
+        "Name": "Netzahualcóyotl",
+        "IPs": [],
+        "Quota": 149
+    },
+    "Nizhny Novgorod": {
+        "Name": "Nizhny Novgorod",
+        "IPs": [],
+        "Quota": 175
+    },
+    "Ottawa - Gatineau": {
+        "Name": "Ottawa - Gatineau",
+        "IPs": [],
+        "Quota": 199
+    },
+    "Pakanbaru": {
+        "Name": "Pakanbaru",
+        "IPs": [],
+        "Quota": 121
+    },
+    "Pikine": {
+        "Name": "Pikine",
+        "IPs": [],
+        "Quota": 148
+    },
+    "Pimpri Chinchwad": {
+        "Name": "Pimpri Chinchwad",
+        "IPs": [],
+        "Quota": 232
+    },
+    "Pizhou": {
+        "Name": "Pizhou",
+        "IPs": [],
+        "Quota": 207
+    },
+    "Praha": {
+        "Name": "Praha",
+        "IPs": [],
+        "Quota": 180
+    },
+    "Puebla-Tlaxcala": {
+        "Name": "Puebla-Tlaxcala",
+        "IPs": [],
+        "Quota": 445
+    },
+    "Qidong": {
+        "Name": "Qidong",
+        "IPs": [],
+        "Quota": 142
+    },
+    "Qiqihaer": {
+        "Name": "Qiqihaer",
+        "IPs": [],
+        "Quota": 207
+    },
+    "Querétaro": {
+        "Name": "Querétaro",
+        "IPs": [],
+        "Quota": 229
+    },
+    "Québec": {
+        "Name": "Québec",
+        "IPs": [],
+        "Quota": 113
+    },
+    "Reynosa-Río Bravo": {
+        "Name": "Reynosa-Río Bravo",
+        "IPs": [],
+        "Quota": 116
+    },
+    "Rio De Janeiro": {
+        "Name": "Rio De Janeiro",
+        "IPs": [],
+        "Quota": 850
+    },
+    "Rostov-Na-Donu": {
+        "Name": "Rostov-Na-Donu",
+        "IPs": [],
+        "Quota": 148
+    },
+    "Rugao": {
+        "Name": "Rugao",
+        "IPs": [],
+        "Quota": 183
+    },
+    "Ruian": {
+        "Name": "Ruian",
+        "IPs": [],
+        "Quota": 163
+    },
+    "Ruzhou": {
+        "Name": "Ruzhou",
+        "IPs": [],
+        "Quota": 124
+    },
+    "Sakon Sakhon": {
+        "Name": "Sakon Sakhon",
+        "IPs": [],
+        "Quota": 140
+    },
+    "San Luis Potosí-Soledad De Graciano Sánchez": {
+        "Name": "San Luis Potosí-Soledad De Graciano Sánchez",
+        "IPs": [],
+        "Quota": 177
+    },
+    "San Martín Texmelucan": {
+        "Name": "San Martín Texmelucan",
+        "IPs": [],
+        "Quota": 359
+    },
+    "Sana'A": {
+        "Name": "Sana'A",
+        "IPs": [],
+        "Quota": 235
+    },
+    "Santo Domingo East": {
+        "Name": "Santo Domingo East",
+        "IPs": [],
+        "Quota": 120
+    },
+    "Shimkent": {
+        "Name": "Shimkent",
+        "IPs": [],
+        "Quota": 147
+    },
+    "Shubra-El-Khema": {
+        "Name": "Shubra-El-Khema",
+        "IPs": [],
+        "Quota": 138
+    },
+    "Soledad De Graciano Sanchez": {
+        "Name": "Soledad De Graciano Sanchez",
+        "IPs": [],
+        "Quota": 140
+    },
+    "Songzi": {
+        "Name": "Songzi",
+        "IPs": [],
+        "Quota": 116
+    },
+    "Soweto": {
+        "Name": "Soweto",
+        "IPs": [],
+        "Quota": 122
+    },
+    "St. Louis": {
+        "Name": "St. Louis",
+        "IPs": [],
+        "Quota": 280
+    },
+    "St. Petersburg": {
+        "Name": "St. Petersburg",
+        "IPs": [],
+        "Quota": 671
+    },
+    "Stif": {
+        "Name": "Stif",
+        "IPs": [],
+        "Quota": 115
+    },
+    "São Gonçalo": {
+        "Name": "São Gonçalo",
+        "IPs": [],
+        "Quota": 134
+    },
+    "São Luís": {
+        "Name": "São Luís",
+        "IPs": [],
+        "Quota": 129
+    },
+    "São Paulo": {
+        "Name": "São Paulo",
+        "IPs": [],
+        "Quota": 1501
+    },
+    "Tai'An": {
+        "Name": "Tai'An",
+        "IPs": [],
+        "Quota": 207
+    },
+    "Taishan": {
+        "Name": "Taishan",
+        "IPs": [],
+        "Quota": 128
+    },
+    "Tengzhou": {
+        "Name": "Tengzhou",
+        "IPs": [],
+        "Quota": 208
+    },
+    "Thane": {
+        "Name": "Thane",
+        "IPs": [],
+        "Quota": 248
+    },
+    "Tongzhou": {
+        "Name": "Tongzhou",
+        "IPs": [],
+        "Quota": 185
+    },
+    "Torreón": {
+        "Name": "Torreón",
+        "IPs": [],
+        "Quota": 164
+    },
+    "Tucumán-Tafí Viejo": {
+        "Name": "Tucumán-Tafí Viejo",
+        "IPs": [],
+        "Quota": 122
+    },
+    "Tuxtla Gutiérrez": {
+        "Name": "Tuxtla Gutiérrez",
+        "IPs": [],
+        "Quota": 121
+    },
+    "Tyneside": {
+        "Name": "Tyneside",
+        "IPs": [],
+        "Quota": 118
+    },
+    "València": {
+        "Name": "València",
+        "IPs": [],
+        "Quota": 153
+    },
+    "Vasai-Virar City": {
+        "Name": "Vasai-Virar City",
+        "IPs": [],
+        "Quota": 164
+    },
+    "Wafangdian": {
+        "Name": "Wafangdian",
+        "IPs": [],
+        "Quota": 129
+    },
+    "Wahran": {
+        "Name": "Wahran",
+        "IPs": [],
+        "Quota": 157
+    },
+    "Warszawa": {
+        "Name": "Warszawa",
+        "IPs": [],
+        "Quota": 241
+    },
+    "West Midlands": {
+        "Name": "West Midlands",
+        "IPs": [],
+        "Quota": 307
+    },
+    "West Yorkshire": {
+        "Name": "West Yorkshire",
+        "IPs": [],
+        "Quota": 202
+    },
+    "Wien": {
+        "Name": "Wien",
+        "IPs": [],
+        "Quota": 255
+    },
+    "Wuxian": {
+        "Name": "Wuxian",
+        "IPs": [],
+        "Quota": 152
+    },
+    "Xi'An": {
+        "Name": "Xi'An",
+        "IPs": [],
+        "Quota": 603
+    },
+    "Xiangcheng": {
+        "Name": "Xiangcheng",
+        "IPs": [],
+        "Quota": 142
+    },
+    "Xiangfan": {
+        "Name": "Xiangfan",
+        "IPs": [],
+        "Quota": 117
+    },
+    "Xingning": {
+        "Name": "Xingning",
+        "IPs": [],
+        "Quota": 117
+    },
+    "Xinhui": {
+        "Name": "Xinhui",
+        "IPs": [],
+        "Quota": 125
+    },
+    "Xishan": {
+        "Name": "Xishan",
+        "IPs": [],
+        "Quota": 159
+    },
+    "Xuanwei": {
+        "Name": "Xuanwei",
+        "IPs": [],
+        "Quota": 174
+    },
+    "Yangchun": {
+        "Name": "Yangchun",
+        "IPs": [],
+        "Quota": 113
+    },
+    "Zengcheng": {
+        "Name": "Zengcheng",
+        "IPs": [],
+        "Quota": 121
+    },
+    "Zhaodong": {
+        "Name": "Zhaodong",
+        "IPs": [],
+        "Quota": 112
+    },
+    "Zhongxiang": {
+        "Name": "Zhongxiang",
+        "IPs": [],
+        "Quota": 138
+    },
+    "Zhuanghe": {
+        "Name": "Zhuanghe",
+        "IPs": [],
+        "Quota": 112
+    },
+    "Zhucheng": {
+        "Name": "Zhucheng",
+        "IPs": [],
+        "Quota": 142
+    },
+    "Zürich": {
+        "Name": "Zürich",
+        "IPs": [],
+        "Quota": 190
+    }
+}
